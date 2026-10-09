@@ -1,4 +1,4 @@
-<!-- gf-brief source=371443e88a718517a47b1c8f941044d3e0f579b0157afc17217cf45a21ea2f7f written=2026-10-09T13:25:17+03:00 -->
+<!-- gf-brief source=371443e88a718517a47b1c8f941044d3e0f579b0157afc17217cf45a21ea2f7f written=2026-10-09T13:25:29+03:00 -->
 # Inkwell
 
 ## What it is
