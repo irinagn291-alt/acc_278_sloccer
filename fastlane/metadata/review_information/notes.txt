@@ -1,0 +1,21 @@
+The app requests no permissions. No permission dialog appears at launch or later, and there is no usage-description string.
+
+There is no login, no in-app purchase, no user-generated content, no account deletion flow, and no App Tracking Transparency prompt.
+
+Inkwell is a daily practice sheet for people who count calligraphy strokes against a quota they set. You dip the nib to wet the ink, then stroke while it is wet so today's tally moves toward the sheet capacity. When the tally meets that capacity, the day files as filled; a dry stroke is a bleed and does not count.
+
+No credentials or demo account are needed. A cold launch shows a system launch screen with no words, then the app. If the introduction has not been finished, three pages appear. Page 1 of 3 is titled A sheet with a quota, with the line Count today's calligraphy strokes against the capacity you set for the page, and the buttons Next and Skip. Page 2 of 3 is titled Dip, then stroke, with the line Dip opens eight seconds of wet ink. Stroke while it is wet and the tally moves. A dry stroke is a bleed and does not count, and the buttons Next and Skip. Page 3 of 3 is titled File the day, with the line When the tally meets the sheet capacity, the day files as filled. Peel can lift the last counted stroke, and the buttons Continue and Skip. Skip on any page, or Continue on the last page, finishes the introduction and opens Today's sheet. Both actions set a usable sheet capacity of 8 strokes if none is set yet. If the introduction is already finished, launch goes straight to Today's sheet.
+
+Today's sheet stays on screen. On a blank day the headline is The sheet is blank and the body is Dip the nib to open the wet window, then stroke today's lines. Stroke the sheet and Peel are not on this empty state. Tap Dip to open eight seconds of wet ink. After the first mark today, tap Stroke the sheet while the nib reads Wet to write a counted stroke and move the tally. When Dry, Stroke the sheet writes a bleed, leaves the tally unchanged, and shows That stroke was dry, so it is a bleed. Today's count stayed put. When Filled, Stroke the sheet is dimmed. Peel asks Peel the last stroke? Confirm with Peel the stroke. Dip does nothing while the nib is Wet or Filled. The wet window is only eight seconds. At local midnight, Today's sheet becomes blank for the new day even if yesterday was filled. Changing capacity can fill or unfill today immediately.
+
+Calendar, Charts, History, and Settings open as sheets over Today's sheet. Open Calendar for Previous month and Next month. An empty month shows This month is still blank until that month has any mark; a dip alone makes today Partial. When any day in that month has a mark, every day is listed as Blank, Partial, or Filled. Open Charts for Weekly stroke volume, Fill streak with Filled days in a row, and Dry bleeds with Dry strokes. Open History for Stroke and Bleed rows marked Counted or Miss. In Settings, under Sheet capacity, enter Strokes on a full sheet and tap Save capacity. Under Marks, Export marks opens the system share sheet. Under Sheet, Show the introduction again returns the three introduction pages; Erase every mark asks Erase every mark? Under Contact, tap Contact Inkwell. After Erase every mark, the introduction returns; that is intended.
+
+Everything stays on this device. Support is Contact Inkwell in Settings.
+
+Copy is English. Dates and numbers follow the device's region, calendar, and time zone. There is no other difference by region.
+
+No licence or regulated-industry paperwork applies. The app is a Lifestyle daily practice sheet and is not a medical, financial, or other regulated product.
+
+The app is a personal log only and gives no recommendations. It does not show health, medical, or product-health information.
+
+The app does not scan barcodes or QR codes.

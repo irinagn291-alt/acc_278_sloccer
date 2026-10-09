@@ -1,0 +1,12 @@
+This is the first release of Inkwell, a daily practice sheet for people who count calligraphy strokes against a quota they set.
+
+• Today's sheet with Dip, Stroke the sheet, and Peel
+• Dip opens eight seconds of wet ink
+• A counted stroke moves the tally; a dry stroke is a bleed and does not count
+• A day files as filled when the tally meets the sheet capacity
+• Calendar of days marked Blank, Partial, or Filled
+• Charts with Weekly stroke volume, Fill streak, and Dry bleeds
+• History of Stroke and Bleed rows marked Counted or Miss
+• Settings for Save capacity, Export marks, Show the introduction again, Erase every mark, and Contact Inkwell
+
+A device install starts with a blank sheet after the introduction and a capacity of 8. Everything stays on this device.
