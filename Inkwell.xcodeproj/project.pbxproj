@@ -23,7 +23,6 @@
 		8273B53C8DF49BFBFFA30AB4 /* SettingsSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2430250466B50FDBFCFF15BD /* SettingsSheet.swift */; };
 		8695D8B7652FE08F6EF295BC /* HistorySheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD63C2F956F3B79C03F9E8E /* HistorySheet.swift */; };
 		97BFD826FDE42287AA2DE6F5 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 0065FFB803A70AA419E5AF12 /* Alamofire */; };
-		A58E2F826CE765373D260FAF /* AppsFlyerLib-Static in Frameworks */ = {isa = PBXBuildFile; productRef = 3B60656554321096AC8385AD /* AppsFlyerLib-Static */; };
 		B2C156677DA00CE28491B34D /* InkMeasure.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7512BDBF013ADBFA2F840FE /* InkMeasure.swift */; };
 		B92CFE5EE8352FE8C83617E6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4B008DE704C6F504B8C45A2 /* ContentView.swift */; };
 		BDB6AD547E325331863968F3 /* ChartsSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 514B17D0B1667D7DE2536A80 /* ChartsSheet.swift */; };
@@ -90,7 +89,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				97BFD826FDE42287AA2DE6F5 /* Alamofire in Frameworks */,
-				A58E2F826CE765373D260FAF /* AppsFlyerLib-Static in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,7 +246,6 @@
 			name = Inkwell;
 			packageProductDependencies = (
 				0065FFB803A70AA419E5AF12 /* Alamofire */,
-				3B60656554321096AC8385AD /* AppsFlyerLib-Static */,
 			);
 			productName = Inkwell;
 			productReference = 26A5A86D94E2F0B6EBA77B76 /* Inkwell.app */;
@@ -300,7 +297,6 @@
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
 				9FF6723F16301471F62373A0 /* XCRemoteSwiftPackageReference "Alamofire" */,
-				440288C8FDE483006B85AA21 /* XCRemoteSwiftPackageReference "AppsFlyerFramework-Static" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = C63BBB90BC918F1125C5ED9D /* Products */;
@@ -547,9 +543,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use this identifier to personalize your experience and measure app performance.";
 				INFOPLIST_FILE = "Support/Inkwell-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = Sloccer;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
@@ -580,9 +575,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "We use this identifier to personalize your experience and measure app performance.";
 				INFOPLIST_FILE = "Support/Inkwell-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = Sloccer;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
@@ -640,14 +634,6 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		440288C8FDE483006B85AA21 /* XCRemoteSwiftPackageReference "AppsFlyerFramework-Static" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/AppsFlyerSDK/AppsFlyerFramework-Static";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 6.17.9;
-			};
-		};
 		9FF6723F16301471F62373A0 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/ymvmj7dsyy-stack/Alamofire";
@@ -663,11 +649,6 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 9FF6723F16301471F62373A0 /* XCRemoteSwiftPackageReference "Alamofire" */;
 			productName = Alamofire;
-		};
-		3B60656554321096AC8385AD /* AppsFlyerLib-Static */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 440288C8FDE483006B85AA21 /* XCRemoteSwiftPackageReference "AppsFlyerFramework-Static" */;
-			productName = "AppsFlyerLib-Static";
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

@@ -73,7 +73,7 @@ struct SettingsSheet: View {
                 }
                 Section("Contact") {
                     if let contactURL {
-                        Link("Contact Inkwell", destination: contactURL)
+                        Link("Contact Sloccer", destination: contactURL)
                             .font(InkType.body())
                             .frame(minHeight: InkMeasure.steps(11))
                     }

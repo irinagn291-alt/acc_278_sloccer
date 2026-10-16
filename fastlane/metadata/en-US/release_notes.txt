@@ -1,4 +1,4 @@
-This is the first release of Inkwell, a daily practice sheet for people who count calligraphy strokes against a quota they set.
+This is the first release of Sloccer, a daily practice sheet for people who count calligraphy strokes against a quota they set.
 
 • Today's sheet with Dip, Stroke the sheet, and Peel
 • Dip opens eight seconds of wet ink
@@ -7,6 +7,6 @@ This is the first release of Inkwell, a daily practice sheet for people who coun
 • Calendar of days marked Blank, Partial, or Filled
 • Charts with Weekly stroke volume, Fill streak, and Dry bleeds
 • History of Stroke and Bleed rows marked Counted or Miss
-• Settings for Save capacity, Export marks, Show the introduction again, Erase every mark, and Contact Inkwell
+• Settings for Save capacity, Export marks, Show the introduction again, Erase every mark, and Contact Sloccer
 
 A device install starts with a blank sheet after the introduction and a capacity of 8. Everything stays on this device.

@@ -1,9 +1,9 @@
-<!-- gf-brief source=371443e88a718517a47b1c8f941044d3e0f579b0157afc17217cf45a21ea2f7f written=2026-10-09T13:28:55+03:00 -->
-# Inkwell
+<!-- gf-brief source=371443e88a718517a47b1c8f941044d3e0f579b0157afc17217cf45a21ea2f7f written=2026-10-09T15:44:30+03:00 -->
+# Sloccer
 
 ## What it is
 
-Inkwell is a daily practice sheet for people who count calligraphy strokes against a quota they set. You dip the nib to wet the ink, then stroke while it is wet so today’s tally moves toward the sheet capacity. When the tally meets that capacity, the day files as filled; a dry stroke is a bleed and does not count.
+Sloccer is a daily practice sheet for people who count calligraphy strokes against a quota they set. You dip the nib to wet the ink, then stroke while it is wet so today’s tally moves toward the sheet capacity. When the tally meets that capacity, the day files as filled; a dry stroke is a bleed and does not count.
 
 ## Launch and onboarding
 
@@ -119,7 +119,7 @@ Section **Sheet**:
 
 Section **Contact**:
 
-- **Contact Inkwell** — opens the support page.
+- **Contact Sloccer** — opens the support page.
 
 ## Features
 
@@ -139,7 +139,7 @@ Section **Contact**:
 - **Export marks**.
 - **Show the introduction again**.
 - **Erase every mark**.
-- **Contact Inkwell**.
+- **Contact Sloccer**.
 
 ## Behaviours that can look like bugs
 
@@ -179,7 +179,7 @@ Login or accounts, in-app purchase, ads, analytics, user-generated content, acco
 
 ## Data and support
 
-Everything stays on this device. Support is **Contact Inkwell** in Settings.
+Everything stays on this device. Support is **Contact Sloccer** in Settings.
 
 ## Scanning and health
 

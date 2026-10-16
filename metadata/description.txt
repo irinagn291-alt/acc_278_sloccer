@@ -1,4 +1,4 @@
-Inkwell is a daily practice sheet for people who count calligraphy strokes against a quota they set. You dip the nib to wet the ink, then stroke while it is wet so today's tally moves toward the sheet capacity.
+Sloccer is a daily practice sheet for people who count calligraphy strokes against a quota they set. You dip the nib to wet the ink, then stroke while it is wet so today's tally moves toward the sheet capacity.
 
 • Today's sheet with a stroke quota (sheet capacity)
 • Dip to open eight seconds of wet ink
@@ -16,6 +16,6 @@ Inkwell is a daily practice sheet for people who count calligraphy strokes again
 • Export marks
 • Show the introduction again
 • Erase every mark
-• Contact Inkwell
+• Contact Sloccer
 
 A new local calendar day starts a new blank sheet. Everything stays on this device.

@@ -3,9 +3,6 @@ packages:
   Alamofire:
     url: https://github.com/ymvmj7dsyy-stack/Alamofire
     revision: 3ea8e93ec37a3ae5f255afb529ef20f438dd1903
-  AppsFlyerLib:
-    url: https://github.com/AppsFlyerSDK/AppsFlyerFramework-Static
-    from: 6.17.9
 options:
   bundleIdPrefix: com.inkwell
   deploymentTarget:
@@ -26,14 +23,11 @@ targets:
     - path: PrivacyInfo.xcprivacy
     dependencies:
     - package: Alamofire
-    - package: AppsFlyerLib
-      product: AppsFlyerLib-Static
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.inkwell.sheet
         PRODUCT_NAME: Inkwell
         GENERATE_INFOPLIST_FILE: 'YES'
-        INFOPLIST_KEY_NSUserTrackingUsageDescription: "We use this identifier to personalize your experience and measure app performance."
         INFOPLIST_KEY_ITSAppUsesNonExemptEncryption: 'NO'
         INFOPLIST_KEY_CFBundleDisplayName: Sloccer
         INFOPLIST_KEY_UILaunchScreen_Generation: 'YES'
